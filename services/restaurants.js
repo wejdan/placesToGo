@@ -1,7 +1,6 @@
 import {mocks, mockImages} from '../data/restaurants';
 import camelize from 'camelize';
 import {nameToCords} from './locations';
-//const API_KEY = 'AIzaSyC9qE9qZ_w7m3nlM-07EO-11N3934tbbb8';
 import Config from 'react-native-config';
 export const placesTypes = [
   'airport',
